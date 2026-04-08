@@ -125,5 +125,5 @@ __attribute__((constructor)) void _init() { //入口
     Main_thread.detach();
 }
 
-//by 陳淵理 2025.12.27
+//by Chen 2025.12.27
 //源码于https://github.com/user3253/Android-imgui-can-inject
